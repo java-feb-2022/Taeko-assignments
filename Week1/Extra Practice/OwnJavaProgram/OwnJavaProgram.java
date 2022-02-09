@@ -1,3 +1,5 @@
+package OwnJavaProgram;
+
 public class OwnJavaProgram {
     public static void main(String[] args) {
         System.out.println("My name is Coding Doko");
